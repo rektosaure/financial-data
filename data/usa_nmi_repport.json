@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2025-11-01T00:00:00+00:00",
+    "summary": "INDUSTRY PERFORMANCE The 11 services industries reporting growth in October — listed in order — are: Accommodation & Food Services; Retail Trade; Wholesale Trade; Real Estate, Rental & Leasing; Health Care & Social Assistance; Utilities; Transportation & Warehousing; Agriculture, Forestry, Fishing & Hunting; Information; Professional, Scientific & Technical Services; and Educational Services. The six industries reporting a contraction in the month of October — listed in order — are: Arts, Entertainment & Recreation; Management of Companies & Support Services; Finance & Insurance; Public Administration; Construction; and Other Services.",
+    "respondents": [
+      "\"Activity is generally flat month-over-month; we are closely monitoring effects of the new tariff announcement.\" [Finance & Insurance]",
+      "\"Uncertainty due to the federal government shutdown has shuttered many non-essential functions. This will lead to project delays and likely hurt our overall fiscal year 2026 expectations. Our sites are funded through the next couple of months, but if the shutdown continues beyond that time, we will expect mass furloughs of our employees.\" [Management of Companies & Support Services]",
+      "\"Relatively flat activity levels for oil and gas.\" [Mining]",
+      "\"Client demand for advisory and compliance services remains solid, particularly as businesses navigate evolving tax legislation and increased regulatory scrutiny. However, we are seeing extended approval cycles on discretionary projects and tighter controls on consulting spend, which is putting pressure on procurement to be more agile and cost-efficient.\" [Professional, Scientific & Technical Services]",
+      "\"Heightened business activity due to new fiscal year budget. Items made with or utilizing precious metals are up, basic labor is down — though maintaining employees has been more difficult since a return-to-office order was implemented.\" [Public Administration]",
+      "\"The overall economy continues to provide mixed signals, which makes it difficult to determine how to move forward as a business given the uncertainty.\" [Real Estate, Rental & Leasing]",
+      "\"Business very strong, no supply chain or logistical issues.\" [Retail Trade]",
+      "\"General business has been steady, with minimum fluctuation.\" [Transportation & Warehousing]",
+      "\"Tariffs continue to cause disruption in contracts and contracting, driving up pricing on goods, particularly engineered and manufactured equipment. The backlog of existing orders with delays continues to persist for equipment and manufactured equipment.\" [Utilities]",
+      "\"Business seems to be picking up. Multifamily is a big driver. I think most projects that have been postponed are finally coming to fruition as lumber prices have found a bottom. The outlook is better with the Fed's plan to continue with rate cuts. Home prices coupled with elevated interest rates continue to keep a lid on sales. Home affordability is still a bit out of reach for a large portion of potential buyers. [Wholesale Trade]"
+    ],
+    "business_activity": "",
+    "new_orders": "",
+    "employment": "",
+    "supplier_deliveries": "",
+    "inventories": "",
+    "prices": "",
+    "backlog_of_orders": "",
+    "new_export_orders": "",
+    "imports": "",
+    "inventory_sentiment": ""
+  },
+  {
+    "date": "2025-10-01T00:00:00+00:00",
+    "summary": "INDUSTRY PERFORMANCE The 10 services industries reporting growth in September — listed in order — are: Accommodation & Food Services; Health Care & Social Assistance; Other Services; Information; Public Administration; Educational Services; Wholesale Trade; Finance & Insurance; Transportation & Warehousing; and Utilities. The seven industries reporting a contraction in the month of September — listed in order — are: Mining; Agriculture, Forestry, Fishing & Hunting; Construction; Management of Companies & Support Services; Professional, Scientific & Technical Services; Retail Trade; and Real Estate, Rental & Leasing.",
+    "respondents": [
+      "\"We are beginning to see the impact of the tariffs impact our business, particularly for food products from India, China, and Southeast Asia, coffee from South America, and apparel and electronics from Asia. Our year-over-year cost increases are getting progressively greater.\" [Accommodation & Food Services]",
+      "\"New residential construction continues to struggle in a tough market. Housing values remain high, and tariffs are beginning to be passed through on materials that are metal based. The pace of housing starts has been stagnant to slightly declining, as we head out of the summer building season.\" [Construction]",
+      "\"Pharmacy costs continue to rise, and medical devices are being held at bay mainly due to contracts and continued negotiations where we have two to three sources for a given product.\" [Health Care & Social Assistance]",
+      "\"Demand for artificial intelligence (AI) and cloud infrastructure remains very strong. Our primary focus this month was on increasing production throughput to begin clearing the significant order backlog built up over the summer. While new order intake has stabilized at a high level, the overall business outlook remains positive. We are still facing significant supply chain challenges, especially for advanced semiconductors and power components, with lead times remaining extended. Price pressures are still present but have not worsened compared to the previous month.\" [Information]",
+      "\"Client demand in professional services remains steady, though decision-making timelines are lengthening due to continued economic uncertainty and interest-rate concerns. We are also seeing modest upward pressure on labor costs, which impacts both our internal resourcing and supplier pricing.\" [Professional, Scientific & Technical Services]",
+      "\"Growing apprehension regarding state efforts to reduce or eliminate property taxes that are a major revenue source for local governments. And continuing concern about future economic conditions, inflation, tariffs and their impact on increased prices.\" [Public Administration]",
+      "\"The overall housing market remains stagnant, which has forced our company to be hyper-vigilant about costs. However, we are growing and increasing our market share despite the headwinds. Tariffs continue to inject an unnecessary level of uncertainty across the broader economy, and costs are now beginning to increase with the full effect of the tariffs now coming into play.\" [Real Estate, Rental & Leasing]",
+      "\"Costs overall have stabilized, and we've not seen any interruptions in sourcing or shipments.\" [Retail Trade]",
+      "\"We've had more tariff charges last month than in previous months.\" [Utilities]",
+      "\"Business conditions continue to soften, even in markets that have historically been more resilient. Demand is simply weak.\" [Wholesale Trade]"
+    ],
+    "business_activity": "",
+    "new_orders": "",
+    "employment": "",
+    "supplier_deliveries": "",
+    "inventories": "",
+    "prices": "",
+    "backlog_of_orders": "",
+    "new_export_orders": "",
+    "imports": "",
+    "inventory_sentiment": ""
+  }
+]
