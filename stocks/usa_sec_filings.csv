@@ -1,5 +1,5 @@
 id,cik,file_path,filing_count,last_filing_date
-sec_filings,0000320193,/share/financial-data/stocks/0000320193_filings.csv,41,2025-10-30
-sec_filings,0000789019,/share/financial-data/stocks/0000789019_filings.csv,47,2025-10-29
-sec_filings,0001067983,/share/financial-data/stocks/0001067983_filings.csv,40,2025-11-21
-sec_filings,0000731766,/share/financial-data/stocks/0000731766_filings.csv,79,2025-11-21
+sec_filings,0000320193,/share/financial-data/stocks/sec-edgar-filings/0000320193_filings.csv,41,2025-10-30
+sec_filings,0000789019,/share/financial-data/stocks/sec-edgar-filings/0000789019_filings.csv,47,2025-10-29
+sec_filings,0001067983,/share/financial-data/stocks/sec-edgar-filings/0001067983_filings.csv,40,2025-11-21
+sec_filings,0000731766,/share/financial-data/stocks/sec-edgar-filings/0000731766_filings.csv,79,2025-11-21
