@@ -53,32 +53,6 @@
   },
   {
     "date": "2025-09-01 00:00:00",
-    "summary": "The 11 services industries reporting growth in October — listed in order — are: Accommodation & Food Services; Retail Trade; Wholesale Trade; Real Estate, Rental & Leasing; Health Care & Social Assistance; Utilities; Transportation & Warehousing; Agriculture, Forestry, Fishing & Hunting; Information; Professional, Scientific & Technical Services; and Educational Services. The six industries reporting a contraction in the month of October — listed in order — are: Arts, Entertainment & Recreation; Management of Companies & Support Services; Finance & Insurance; Public Administration; Construction; and Other Services.",
-    "respondents": [
-      "\"Activity is generally flat month-over-month; we are closely monitoring effects of the new tariff announcement.\" [Finance & Insurance]",
-      "\"Uncertainty due to the federal government shutdown has shuttered many non-essential functions. This will lead to project delays and likely hurt our overall fiscal year 2026 expectations. Our sites are funded through the next couple of months, but if the shutdown continues beyond that time, we will expect mass furloughs of our employees.\" [Management of Companies & Support Services]",
-      "\"Relatively flat activity levels for oil and gas.\" [Mining]",
-      "\"Client demand for advisory and compliance services remains solid, particularly as businesses navigate evolving tax legislation and increased regulatory scrutiny. However, we are seeing extended approval cycles on discretionary projects and tighter controls on consulting spend, which is putting pressure on procurement to be more agile and cost-efficient.\" [Professional, Scientific & Technical Services]",
-      "\"Heightened business activity due to new fiscal year budget. Items made with or utilizing precious metals are up, basic labor is down — though maintaining employees has been more difficult since a return-to-office order was implemented.\" [Public Administration]",
-      "\"The overall economy continues to provide mixed signals, which makes it difficult to determine how to move forward as a business given the uncertainty.\" [Real Estate, Rental & Leasing]",
-      "\"Business very strong, no supply chain or logistical issues.\" [Retail Trade]",
-      "\"General business has been steady, with minimum fluctuation.\" [Transportation & Warehousing]",
-      "\"Tariffs continue to cause disruption in contracts and contracting, driving up pricing on goods, particularly engineered and manufactured equipment. The backlog of existing orders with delays continues to persist for equipment and manufactured equipment.\" [Utilities]",
-      "\"Business seems to be picking up. Multifamily is a big driver. I think most projects that have been postponed are finally coming to fruition as lumber prices have found a bottom. The outlook is better with the Fed's plan to continue with rate cuts. Home prices coupled with elevated interest rates continue to keep a lid on sales. Home affordability is still a bit out of reach for a large portion of potential buyers. [Wholesale Trade]"
-    ],
-    "business_activity": "The 10 industries reporting an increase in business activity for the month of October — listed in order — are: Accommodation & Food Services; Agriculture, Forestry, Fishing & Hunting; Wholesale Trade; Transportation & Warehousing; Information; Health Care & Social Assistance; Retail Trade; Utilities; Educational Services; and Professional, Scientific & Technical Services. The three industries reporting a decrease in business activity for the month of October are: Arts, Entertainment & Recreation; Management of Companies & Support Services; and Public Administration.",
-    "new_orders": "The 12 industries reporting an increase in new orders for the month of October — listed in order — are: Accommodation & Food Services; Retail Trade; Wholesale Trade; Real Estate, Rental & Leasing; Agriculture, Forestry, Fishing & Hunting; Other Services; Transportation & Warehousing; Health Care & Social Assistance; Professional, Scientific & Technical Services; Information; Utilities; and Educational Services. The five industries reporting a decrease in new orders for the month of October are: Arts, Entertainment & Recreation; Construction; Management of Companies & Support Services; Finance & Insurance; and Public Administration.",
-    "employment": "The four industries reporting an increase in employment in October are: Retail Trade; Real Estate, Rental & Leasing; Utilities; and Health Care & Social Assistance. The 10 industries reporting a decrease in employment in October — listed in order — are: Other Services; Arts, Entertainment & Recreation; Finance & Insurance; Transportation & Warehousing; Management of Companies & Support Services; Public Administration; Information; Educational Services; Wholesale Trade; and Professional, Scientific & Technical Services.",
-    "supplier_deliveries": "The six industries reporting slower deliveries in October — in the following order — are: Wholesale Trade; Transportation & Warehousing; Educational Services; Information; Public Administration; and Professional, Scientific & Technical Services. The three industries reporting faster supplier deliveries for the month of October are: Agriculture, Forestry, Fishing & Hunting; Utilities; and Health Care & Social Assistance. Nine industries reported no change in Supplier Deliveries in the month of October.",
-    "inventories": "The six industries reporting an increase in inventories in October — in the following order — are: Transportation & Warehousing; Information; Management of Companies & Support Services; Health Care & Social Assistance; Utilities; and Professional, Scientific & Technical Services. The six industries reporting a decrease in inventories in October — listed in order — are: Arts, Entertainment & Recreation; Educational Services; Public Administration; Other Services; Construction; and Retail Trade. Six industries reported no change in inventories for the month of October.",
-    "prices": "Sixteen of the 18 services industries reported an increase in prices paid during the month of October, in the following order: Accommodation & Food Services; Other Services; Real Estate, Rental & Leasing; Information; Management of Companies & Support Services; Wholesale Trade; Professional, Scientific & Technical Services; Finance & Insurance; Retail Trade; Public Administration; Health Care & Social Assistance; Agriculture, Forestry, Fishing & Hunting; Transportation & Warehousing; Educational Services; Utilities; and Construction. Mining was the only industry reporting a decrease in prices paid in October.",
-    "backlog_of_orders": "The five industries reporting an increase in order backlogs in October are: Retail Trade; Educational Services; Transportation & Warehousing; Health Care & Social Assistance; and Wholesale Trade. The seven industries reporting a decrease in order backlogs in October — in the following order — are: Real Estate, Rental & Leasing; Other Services; Mining; Construction; Public Administration; Professional, Scientific & Technical Services; and Agriculture, Forestry, Fishing & Hunting. Six industries reported no change in order backlogs in the month of October.",
-    "new_export_orders": "The three industries reporting an increase in new export orders in October are: Utilities; Transportation & Warehousing; and Wholesale Trade. The five industries reporting a decrease in new export orders in October are: Real Estate, Rental & Leasing; Accommodation & Food Services; Construction; Finance & Insurance; and Retail Trade. Ten industries reported no change in exports in October.",
-    "imports": "The three industries reporting an increase in imports for the month of October are: Agriculture, Forestry, Fishing & Hunting; Utilities; and Wholesale Trade. The seven industries reporting a decrease in imports in October — listed in order — are: Real Estate, Rental & Leasing; Accommodation & Food Services; Management of Companies & Support Services; Other Services; Retail Trade; Transportation & Warehousing; and Professional, Scientific & Technical Services. Eight industries reported no change in imports in October.",
-    "inventory_sentiment": "The 12 industries reporting sentiment that their inventories were too high in October — listed in order — are: Mining; Construction; Retail Trade; Wholesale Trade; Utilities; Management of Companies & Support Services; Educational Services; Information; Public Administration; Health Care & Social Assistance; Professional, Scientific & Technical Services; and Transportation & Warehousing. The only industry reporting a decrease in inventory sentiment in October is Other Services."
-  },
-  {
-    "date": "2025-08-01 00:00:00",
     "summary": "The 10 services industries reporting growth in September — listed in order — are: Accommodation & Food Services; Health Care & Social Assistance; Other Services; Information; Public Administration; Educational Services; Wholesale Trade; Finance & Insurance; Transportation & Warehousing; and Utilities. The seven industries reporting a contraction in the month of September — listed in order — are: Mining; Agriculture, Forestry, Fishing & Hunting; Construction; Management of Companies & Support Services; Professional, Scientific & Technical Services; Retail Trade; and Real Estate, Rental & Leasing.",
     "respondents": [
       "\"We are beginning to see the impact of the tariffs impact our business, particularly for food products from India, China, and Southeast Asia, coffee from South America, and apparel and electronics from Asia. Our year-over-year cost increases are getting progressively greater.\" [Accommodation & Food Services]",
@@ -104,7 +78,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in September — listed in order — are: Wholesale Trade; Agriculture, Forestry, Fishing & Hunting; Construction; Retail Trade; Utilities; Educational Services; Information; and Health Care & Social Assistance. The three industries reporting a decrease in inventory sentiment in September are: Transportation & Warehousing; Professional, Scientific & Technical Services; and Management of Companies & Support Services. Seven industries reported no change in inventory sentiment in September."
   },
   {
-    "date": "2025-07-01 00:00:00",
+    "date": "2025-08-01 00:00:00",
     "summary": "The 12 services industries reporting growth in August — listed in order — are: Information; Wholesale Trade; Arts, Entertainment & Recreation; Mining; Transportation & Warehousing; Educational Services; Professional, Scientific & Technical Services; Retail Trade; Utilities; Health Care & Social Assistance; Public Administration; and Real Estate, Rental & Leasing. The four industries reporting a contraction in the month of August are: Accommodation & Food Services; Management of Companies & Support Services; Other Services; and Construction.",
     "respondents": [
       "\"We are starting to see the impact of tariffs on the cost of imported goods. For our company, this is primarily for goods from Asia and South America . We expect to see the full effect of tariffs in our cost of goods sold by October.\" [Accommodation & Food Services]",
@@ -130,7 +104,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in August — listed in order — are: Retail Trade; Wholesale Trade; Information; Utilities; Construction; Public Administration; Management of Companies & Support Services; Health Care & Social Assistance; and Educational Services. The two industries reporting a decrease in order backlogs in August are: Transportation & Warehousing; and Professional, Scientific & Technical Services. Seven industries reported no change in inventory sentiment in August."
   },
   {
-    "date": "2025-06-01 00:00:00",
+    "date": "2025-07-01 00:00:00",
     "summary": "The 11 services industries reporting growth in July — listed in order — are: Transportation & Warehousing; Wholesale Trade; Finance & Insurance; Retail Trade; Other Services; Management of Companies & Support Services; Public Administration; Real Estate, Rental & Leasing; Information; Utilities; and Health Care & Social Assistance. The seven industries reporting a contraction in the month of July — listed in order — are: Accommodation & Food Services; Construction; Mining; Educational Services; Agriculture, Forestry, Fishing & Hunting; Arts, Entertainment & Recreation; and Professional, Scientific & Technical Services.",
     "respondents": [
       "\"Anticipation of the final tariff impacts is resulting in delayed planning for next fiscal year purchases.\" [Accommodation & Food Services]",
@@ -156,7 +130,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in July — listed in order — are: Mining; Retail Trade; Wholesale Trade; Construction; Other Services; Utilities; Information; Agriculture, Forestry, Fishing & Hunting; Management of Companies & Support Services; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The two industries reporting a decrease in order backlogs in July are: Real Estate, Rental & Leasing; and Transportation & Warehousing."
   },
   {
-    "date": "2025-05-01 00:00:00",
+    "date": "2025-06-01 00:00:00",
     "summary": "The 10 services industries reporting growth in June — listed in order — are: Other Services; Transportation & Warehousing; Utilities; Arts, Entertainment & Recreation; Management of Companies & Support Services; Wholesale Trade; Public Administration; Retail Trade; Information; and Real Estate, Rental & Leasing. The six industries reporting a contraction in the month of June — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Construction; Mining; Health Care & Social Assistance; Professional, Scientific & Technical Services; and Educational Services.",
     "respondents": [
       "\"Restaurant sales and traffic remain flat to prior year. Staffing is adequate for our current needs, and no supply chain concerns this month.\" [Accommodation & Food Services]",
@@ -182,7 +156,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in June — listed in order — are: Construction; Other Services; Retail Trade; Wholesale Trade; Mining; Information; Utilities; Public Administration; Health Care & Social Assistance; and Professional, Scientific & Technical Services. There were no industries reporting feeling that their inventory is too low, and eight industries reported no change in imports in June."
   },
   {
-    "date": "2025-04-01 00:00:00",
+    "date": "2025-05-01 00:00:00",
     "summary": "The 10 services industries reporting growth in May — listed in order — are: Accommodation & Food Services; Arts, Entertainment & Recreation; Public Administration; Mining; Utilities; Educational Services; Real Estate, Rental & Leasing; Information; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The eight industries reporting a contraction in the month of May — listed in order — are: Other Services; Retail Trade; Management of Companies & Support Services; Agriculture, Forestry, Fishing & Hunting; Finance & Insurance; Construction; Transportation & Warehousing; and Wholesale Trade.",
     "respondents": [
       "\"Tariff variability has thrown residential construction supply chains into chaos. Many items are still manufactured in southeast Asia , and suppliers are beginning to test the waters for increases. Major heating, ventilation and air conditioning equipment manufacturers are passing on their cost increases due to higher refrigerant and steel commodity prices. Planning is difficult for community projects that could be scheduled for the next 22 to 30 months.\" [Construction]",
@@ -208,7 +182,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in May — listed in order — are: Real Estate, Rental & Leasing; Mining; Utilities; Construction; Retail Trade; Wholesale Trade; Educational Services; Public Administration; Health Care & Social Assistance; and Information. The three industries reporting feeling that their inventory is too low in May are: Transportation & Warehousing; Agriculture, Forestry, Fishing & Hunting; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2025-03-01 00:00:00",
+    "date": "2025-04-01 00:00:00",
     "summary": "The 11 services industries reporting growth in April — listed in order — are: Accommodation & Food Services; Wholesale Trade; Mining; Real Estate, Rental & Leasing; Retail Trade; Arts, Entertainment & Recreation; Health Care & Social Assistance; Transportation & Warehousing; Information; Educational Services; and Utilities. The six industries reporting a contraction in the month of April — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Professional, Scientific & Technical Services; Finance & Insurance; Management of Companies & Support Services; Public Administration; and Construction.",
     "respondents": [
       "\"Sales and traffic have improved on track with year-over-year seasonal trends. We seem to be outperforming some of the publicly traded restaurants reporting results.\" [Accommodation & Food Services]",
@@ -234,7 +208,7 @@
     "inventory_sentiment": "The seven industries reporting sentiment that their inventories were too high in April — listed in order — are: Real Estate, Rental & Leasing; Wholesale Trade; Utilities; Construction; Information; Mining; and Health Care & Social Assistance. The four industries reporting feeling that their inventory is too low in April are: Transportation & Warehousing; Agriculture, Forestry, Fishing & Hunting; Public Administration; and Professional, Scientific & Technical Services. Seven industries reported no change in inventory sentiment in April."
   },
   {
-    "date": "2025-02-01 00:00:00",
+    "date": "2025-03-01 00:00:00",
     "summary": "The 10 services industries reporting growth in March — listed in order — are: Accommodation & Food Services; Transportation & Warehousing; Finance & Insurance; Wholesale Trade; Public Administration; Utilities; Agriculture, Forestry, Fishing & Hunting; Construction; Real Estate, Rental & Leasing; and Retail Trade. The seven industries reporting a contraction in the month of March — listed in order — are: Management of Companies & Support Services; Professional, Scientific & Technical Services; Other Services; Arts, Entertainment & Recreation; Educational Services; Health Care & Social Assistance; and Information.",
     "respondents": [
       "\"Restaurant sales and traffic have improved in the past month overall. Valentine's Day typically starts an improved seasonal trend that was consistent this year. We remain optimistic about the coming months, despite recent news of possible recession and tariffs that have not played out yet.\" [Accommodation & Food Services]",
@@ -260,7 +234,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in March — listed in order — are: Mining; Retail Trade; Utilities; Wholesale Trade; Agriculture, Forestry, Fishing & Hunting; Construction; Health Care & Social Assistance; Professional, Scientific & Technical Services; Public Administration; and Information. The only industry reporting feeling that its inventory is too low in March is Real Estate, Rental & Leasing. Seven industries reported no change in inventory sentiment in March."
   },
   {
-    "date": "2025-01-01 00:00:00",
+    "date": "2025-02-01 00:00:00",
     "summary": "The 14 services industries reporting growth in February — listed in order — are: Other Services; Finance & Insurance; Wholesale Trade; Utilities; Agriculture, Forestry, Fishing & Hunting; Mining; Real Estate, Rental & Leasing; Health Care & Social Assistance; Construction; Transportation & Warehousing; Accommodation & Food Services; Professional, Scientific & Technical Services; Information; and Public Administration. The three industries reporting a contraction in the month of February are: Management of Companies & Support Services; Retail Trade; and Educational Services.",
     "respondents": [
       "\"Tariff actions have created chaos in information and pricing measures, forecasting and forward buys, which may artificially inflate purchases to be followed by a drop off.\" [Accommodation & Food Services]",
@@ -286,7 +260,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in February — listed in order — are: Mining; Retail Trade; Utilities; Construction; Information; Wholesale Trade; Educational Services; Professional, Scientific & Technical Services; and Health Care & Social Assistance. Two industries reporting feeling that their inventories are too low in February are: Transportation & Warehousing; and Management of Companies & Support Services. Six industries reported no change in February."
   },
   {
-    "date": "2024-12-01 00:00:00",
+    "date": "2025-01-01 00:00:00",
     "summary": "The 14 services industries reporting growth in January — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Accommodation & Food Services; Mining; Wholesale Trade; Finance & Insurance; Health Care & Social Assistance; Educational Services; Transportation & Warehousing; Retail Trade; Information; Construction; Management of Companies & Support Services; Public Administration; and Utilities. The three industries reporting a contraction in the month of January are: Other Services; Real Estate, Rental & Leasing; and Professional, Scientific & Technical Services.",
     "respondents": [
       "\"Expecting considerable new projects to move to execution by second quarter in the energy market within the U.S.\" [Construction]",
@@ -312,7 +286,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in January — listed in order — are: Accommodation & Food Services; Arts, Entertainment & Recreation; Wholesale Trade; Utilities; Educational Services; Construction; Information; Professional, Scientific & Technical Services; Health Care & Social Assistance; and Retail Trade. The only industry reporting feeling that its inventories are too low in January is Management of Companies & Support Services. Seven industries reported no change in January."
   },
   {
-    "date": "2024-11-01 00:00:00",
+    "date": "2024-12-01 00:00:00",
     "summary": "The nine services industries reporting growth in December — listed in order — are: Finance & Insurance; Arts, Entertainment & Recreation; Retail Trade; Health Care & Social Assistance; Transportation & Warehousing; Public Administration; Accommodation & Food Services; Wholesale Trade; and Utilities. The six industries reporting a contraction in the month of December — listed in order — are: Real Estate, Rental & Leasing; Educational Services; Agriculture, Forestry, Fishing & Hunting; Professional, Scientific & Technical Services; Information; and Management of Companies & Support Services.",
     "respondents": [
       "\"Preparations are underway to diversify supply in the anticipation for tariffs and the effect it will have on our business.\" [Accommodation & Food Services]",
@@ -338,7 +312,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in December — listed in order — are: Utilities; Wholesale Trade; Accommodation & Food Services; Other Services; Retail Trade; Construction; Health Care & Social Assistance; and Management of Companies & Support Services. The two industries reporting feeling that their inventories were too low in December are: Arts, Entertainment & Recreation; and Transportation & Warehousing. Eight industries reported no change in December."
   },
   {
-    "date": "2024-10-01 00:00:00",
+    "date": "2024-11-01 00:00:00",
     "summary": "The 14 services industries reporting growth in November — listed in order — are: Accommodation & Food Services; Arts, Entertainment & Recreation; Health Care & Social Assistance; Wholesale Trade; Agriculture, Forestry, Fishing & Hunting; Public Administration; Finance & Insurance; Management of Companies & Support Services; Retail Trade; Transportation & Warehousing; Information; Professional, Scientific & Technical Services; Construction; and Utilities. The three industries reporting a contraction in the month of November are: Mining; Real Estate, Rental & Leasing; and Educational Services.",
     "respondents": [
       "\"Federal Reserve interest rate cuts have not had the desired effect on mortgage rates yet. With election results mostly determined, expansion of residential construction is anticipated, but the unknown effect of tariffs clouds the future.\" [Construction]",
@@ -364,7 +338,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in November — listed in order — are: Arts, Entertainment & Recreation; Mining; Wholesale Trade; Utilities; Retail Trade; Construction; Public Administration; Educational Services; and Information. The two industries reporting feeling that their inventories were too low in November are: Management of Companies & Support Services; and Agriculture, Forestry, Fishing & Hunting. Seven industries reported no change in November."
   },
   {
-    "date": "2024-09-01 00:00:00",
+    "date": "2024-10-01 00:00:00",
     "summary": "The 14 services industries reporting growth in October — listed in order — are: Retail Trade; Information; Transportation & Warehousing; Accommodation & Food Services; Finance & Insurance; Construction; Mining; Public Administration; Utilities; Real Estate, Rental & Leasing; Educational Services; Professional, Scientific & Technical Services; Health Care & Social Assistance; and Wholesale Trade. The two industries reporting a contraction in the month of October are: Other Services; and Management of Companies & Support Services.",
     "respondents": [
       "\"Material availability and delivery continues to improve. The port strike had an impact, as we had to divert shipments, but the overall costs are not material. Services cost remains elevated but easier to negotiate.\" [Accommodation & Food Services]",
@@ -390,7 +364,7 @@
     "inventory_sentiment": "The seven industries reporting sentiment that their inventories were too high in October — listed in order — are: Other Services; Mining; Wholesale Trade; Utilities; Professional, Scientific & Technical Services; Construction; and Health Care & Social Assistance. The four industries reporting feeling that their inventories were too low in October are: Management of Companies & Support Services; Educational Services; Agriculture, Forestry, Fishing & Hunting; and Transportation & Warehousing. Seven industries reported no change in October."
   },
   {
-    "date": "2024-08-01 00:00:00",
+    "date": "2024-09-01 00:00:00",
     "summary": "The 12 services industries reporting growth in September — listed in order — are: Real Estate, Rental & Leasing; Management of Companies & Support Services; Accommodation & Food Services; Mining; Public Administration; Health Care & Social Assistance; Finance & Insurance; Construction; Transportation & Warehousing; Information; Educational Services; and Utilities. The five industries reporting a contraction in the month of September are: Other Services; Agriculture, Forestry, Fishing & Hunting; Wholesale Trade; Professional, Scientific & Technical Services; and Retail Trade.",
     "respondents": [
       "\"Overall, economic factors are somewhat stable in the last month. Volatility was limited, based more on seasonal aspects than geopolitical issues or election season. That stability may be short-lived due to looming port labor issues heading into October.\" [Accommodation & Food Services]",
@@ -416,7 +390,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in September — listed in order — are: Wholesale Trade; Mining; Retail Trade; Utilities; Other Services; Construction; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The two industries reporting feeling that their inventories were too low in September are: Management of Companies & Support Services; and Public Administration. Eight industries reported no change in September."
   },
   {
-    "date": "2024-07-01 00:00:00",
+    "date": "2024-08-01 00:00:00",
     "summary": "The 10 services industries reporting growth in August — listed in order — are: Arts, Entertainment & Recreation; Mining; Transportation & Warehousing; Other Services; Information; Health Care & Social Assistance; Finance & Insurance; Public Administration; Educational Services; and Utilities. The seven industries reporting a decrease in the month of August — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Retail Trade; Construction; Wholesale Trade; Accommodation & Food Services; Management of Companies & Support Services; and Professional, Scientific & Technical Services.",
     "respondents": [
       "\"Generally, business is good. However, there are concerns of slowing foot traffic at restaurants and other venues where our products are sold.\" [Agriculture, Forestry, Fishing & Hunting]",
@@ -442,7 +416,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in August — listed in order — are: Mining; Wholesale Trade; Construction; Other Services; Retail Trade; Utilities; Agriculture, Forestry, Fishing & Hunting; Transportation & Warehousing; Health Care & Social Assistance; Professional, Scientific & Technical Services; and Management of Companies & Support Services. The two industries reporting feeling that their inventories were too low in August are: Arts, Entertainment & Recreation; and Public Administration."
   },
   {
-    "date": "2024-06-01 00:00:00",
+    "date": "2024-07-01 00:00:00",
     "summary": "The 10 services industries reporting growth in July — listed in order — are: Arts, Entertainment & Recreation; Accommodation & Food Services; Mining; Construction; Management of Companies & Support Services; Transportation & Warehousing; Public Administration; Finance & Insurance; Health Care & Social Assistance; and Utilities. The eight industries reporting a decrease in the month of July — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Real Estate, Rental & Leasing; Wholesale Trade; Retail Trade; Professional, Scientific & Technical Services; Information; Educational Services; and Other Services.",
     "respondents": [
       "\"As was the case in June, restaurant sales and traffic remain flat compared to last year. A heat wave in California , rising gas prices and general angst about menu prices have tempered consumer demand.\" [Accommodation & Food Services]",
@@ -468,7 +442,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in July — listed in order — are: Mining; Real Estate, Rental & Leasing; Other Services; Retail Trade; Utilities; Wholesale Trade; Construction; Agriculture, Forestry, Fishing & Hunting; Information; Health Care & Social Assistance; and Professional, Scientific & Technical Services. No industry reported feeling that its inventories were too low in July. Seven industries reported no change in inventory sentiment in July."
   },
   {
-    "date": "2024-05-01 00:00:00",
+    "date": "2024-06-01 00:00:00",
     "summary": "The eight services industries reporting growth in June — listed in order — are: Other Services; Management of Companies & Support Services; Health Care & Social Assistance; Construction; Utilities; Finance & Insurance; Educational Services; and Professional, Scientific & Technical Services. The eight industries reporting a decrease in the month of June — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Real Estate, Rental & Leasing; Mining; Retail Trade; Public Administration; Wholesale Trade; Transportation & Warehousing; and Information.",
     "respondents": [
       "\"Sales and traffic remain soft compared to last year. High gas prices in California and constant news about inflation and restaurant menu prices are culprits.\" [Accommodation & Food Services]",
@@ -494,7 +468,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in June — listed in order — are: Real Estate, Rental & Leasing; Retail Trade; Other Services; Utilities; Wholesale Trade; Construction; Information; Educational Services; Professional, Scientific & Technical Services; and Health Care & Social Assistance. The only industry reporting a feeling that its inventories were too low in June is Public Administration. Seven industries reported no change in inventory sentiment in June."
   },
   {
-    "date": "2024-04-01 00:00:00",
+    "date": "2024-05-01 00:00:00",
     "summary": "The 13 services industries reporting growth in May — listed in order — are: Real Estate, Rental & Leasing; Health Care & Social Assistance; Other Services; Educational Services; Utilities; Wholesale Trade; Construction; Transportation & Warehousing; Public Administration; Management of Companies & Support Services; Finance & Insurance; Information; and Professional, Scientific & Technical Services. The five industries reporting a decrease in the month of May are: Retail Trade; Agriculture, Forestry, Fishing & Hunting; Arts, Entertainment & Recreation; Accommodation & Food Services; and Mining.",
     "respondents": [
       "\"The last month has brought a level of stability not seen is some time. Recent news of the Biden administration's tariff actions is of high concern on disruption, with little information on the exclusion process when it comes to which materials and products will actually be impacted.\" [Accommodation & Food Services]",
@@ -521,7 +495,7 @@
     "inventory_sentiment": "The 12 industries reporting sentiment that their inventories were too high in May — listed in order — are: Real Estate, Rental & Leasing; Mining; Retail Trade; Wholesale Trade; Educational Services; Finance & Insurance; Other Services; Agriculture, Forestry, Fishing & Hunting; Health Care & Social Assistance; Utilities; Construction; and Management of Companies & Support Services. The two industries reporting a feeling that their inventories were too low in May are: Professional, Scientific & Technical Services; and Information."
   },
   {
-    "date": "2024-03-01 00:00:00",
+    "date": "2024-04-01 00:00:00",
     "summary": "The 12 services industries reporting growth in April — listed in order — are: Accommodation & Food Services; Construction; Agriculture, Forestry, Fishing & Hunting; Utilities; Mining; Management of Companies & Support Services; Educational Services; Retail Trade; Finance & Insurance; Health Care & Social Assistance; Public Administration; and Wholesale Trade. The six industries reporting a decrease in the month of April — listed in order — are: Other Services; Information; Arts, Entertainment & Recreation; Real Estate, Rental & Leasing; Professional, Scientific & Technical Services; and Transportation & Warehousing.",
     "respondents": [
       "\"Steady improvement toward lower costs in food and beverages; however, avian bird flu may affect pricing moving forward. Already seeing increases in chicken and eggs. In the technology space, prices are not decreasing but holding steady.\" [Accommodation & Food Services]",
@@ -547,7 +521,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in April — listed in order — are: Real Estate, Rental & Leasing; Agriculture, Forestry, Fishing & Hunting; Other Services; Wholesale Trade; Retail Trade; Mining; Utilities; Information; Health Care & Social Assistance; Management of Companies & Support Services; and Construction. The only industry reporting a feeling that their inventories were too low in April is Transportation & Warehousing. Six industries indicated no change in inventory sentiment in April."
   },
   {
-    "date": "2024-02-01 00:00:00",
+    "date": "2024-03-01 00:00:00",
     "summary": "The 12 services industries reporting growth in March — listed in order — are: Accommodation & Food Services; Professional, Scientific & Technical Services; Agriculture, Forestry, Fishing & Hunting; Educational Services; Construction; Management of Companies & Support Services; Utilities; Retail Trade; Wholesale Trade; Other Services; Finance & Insurance; and Health Care & Social Assistance. The four industries reporting a decrease in the month of March are: Mining; Transportation & Warehousing; Real Estate, Rental & Leasing; and Information.",
     "respondents": [
       "\"The Red Sea turmoil is still not a notable challenge on supply for our sector, but we're watching carefully for disruption risk. Also, the unrest in Haiti carries potential risk for the garment industry.\" [Accommodation & Food Services]",
@@ -573,7 +547,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in March — listed in order — are: Other Services; Utilities; Wholesale Trade; Information; Construction; Mining; Health Care & Social Assistance; Public Administration; and Retail Trade. The two industries reporting a feeling that their inventories were too low in March are: Transportation & Warehousing; and Professional, Scientific & Technical Services. Six industries indicated no change in inventory sentiment in March."
   },
   {
-    "date": "2024-01-01 00:00:00",
+    "date": "2024-02-01 00:00:00",
     "summary": "The 14 services industries reporting growth in February — listed in order — are: Construction; Retail Trade; Public Administration; Health Care & Social Assistance; Accommodation & Food Services; Utilities; Professional, Scientific & Technical Services; Management of Companies & Support Services; Finance & Insurance; Agriculture, Forestry, Fishing & Hunting; Wholesale Trade; Information; Educational Services; and Transportation & Warehousing. The three industries reporting a decrease in the month of February are: Arts, Entertainment & Recreation; Mining; and Real Estate, Rental & Leasing.",
     "respondents": [
       "\" Red Sea issues have not yet impacted our purchasing conditions, but we continue to monitor the situation very closely.\" [Accommodation & Food Services]",
@@ -599,7 +573,7 @@
     "inventory_sentiment": "The 12 industries reporting sentiment that their inventories were too high in February — listed in order — are: Arts, Entertainment & Recreation; Mining; Other Services; Retail Trade; Wholesale Trade; Agriculture, Forestry, Fishing & Hunting; Utilities; Educational Services; Transportation & Warehousing; Construction; Information; and Health Care & Social Assistance. The two industries reporting a feeling that their inventories were too low in February are: Real Estate, Rental & Leasing; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-12-01 00:00:00",
+    "date": "2024-01-01 00:00:00",
     "summary": "The 10 services industries reporting growth in January — listed in order — are: Health Care & Social Assistance; Agriculture, Forestry, Fishing & Hunting; Professional, Scientific & Technical Services; Public Administration; Utilities; Accommodation & Food Services; Construction; Other Services; Educational Services; and Management of Companies & Support Services. The seven industries reporting a decrease in the month of January — listed in order — are: Information ; Retail Trade ; Real Estate, Rental & Leasing ; Mining ; Arts, Entertainment & Recreation ; Wholesale Trade ; and Finance & Insurance.",
     "respondents": [
       "\"Supply chain disruptions forced a change to min/max (inventory calculations) to assure on-time materials; now that most disruptions are over, those calculations are being normalized, which will slow down ordering while inventories right-size. The district is seeing higher-than-normal turnover as workers are being aggressively pursued by districts offering higher wages. Water sales are lower than expected due to unseasonably cool weather. This will put pressure on rates, along with an increase in wages in order to attract and retain quality employees.\" [Utilities]",
@@ -625,7 +599,7 @@
     "inventory_sentiment": "The 13 industries reporting sentiment that their inventories were too high in January — listed in order — are: Arts, Entertainment & Recreation; Mining; Other Services; Real Estate, Rental & Leasing; Wholesale Trade; Utilities; Agriculture, Forestry, Fishing & Hunting; Construction; Retail Trade; Health Care & Social Assistance; Transportation & Warehousing; Information; and Management of Companies & Support Services. The only industry reporting a feeling that their inventories were too low in January is Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-11-01 00:00:00",
+    "date": "2023-12-01 00:00:00",
     "summary": "The nine services industries reporting growth in December — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Accommodation & Food Services; Health Care & Social Assistance; Transportation & Warehousing; Other Services; Utilities; Retail Trade; Professional, Scientific & Technical Services; and Public Administration. The nine industries reporting a decrease in the month of December — listed in order — are: Real Estate, Rental & Leasing; Arts, Entertainment & Recreation; Wholesale Trade; Mining; Information; Educational Services; Management of Companies & Support Services; Construction; and Finance & Insurance.",
     "respondents": [
       "\"Pricing has become more favorable, in increments. However, beef prices are still high. Petroleum continues to fluctuate. Services has come down slightly, but hourly rates are still higher than pre-pandemic (levels).\" [Accommodation & Food Services]",
@@ -652,7 +626,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in December — listed in order — are: Arts, Entertainment & Recreation; Other Services; Information; Mining; Agriculture, Forestry, Fishing & Hunting; Construction; Wholesale Trade; Utilities; and Health Care & Social Assistance. The two industries reporting a feeling that their inventories were too low in December are: Transportation & Warehousing; and Management of Companies & Support Services. Six industries reported no change in December."
   },
   {
-    "date": "2023-10-01 00:00:00",
+    "date": "2023-11-01 00:00:00",
     "summary": "The 15 services industries reporting growth in November — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Health Care & Social Assistance; Real Estate, Rental & Leasing; Arts, Entertainment & Recreation; Transportation & Warehousing; Retail Trade; Utilities; Accommodation & Food Services; Other Services; Management of Companies & Support Services; Finance & Insurance; Public Administration; Construction; Wholesale Trade; and Educational Services. The three industries reporting a decrease in the month of November are: Information; Mining; and Professional, Scientific & Technical Services.",
     "respondents": [
       "\"Restaurant sales and traffic trends are consistent with the previous month and at our annual seasonal lows — should pick up again in December. We continue to trend positive to pre-pandemic and last year.\" [Accommodation & Food Services]",
@@ -681,7 +655,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in November — listed in order — are: Arts, Entertainment & Recreation; Real Estate, Rental & Leasing; Mining; Other Services; Wholesale Trade; Construction; Utilities; Educational Services; Information; Health Care & Social Assistance; and Public Administration. The three industries reporting a feeling that their inventories were too low in November are: Transportation & Warehousing; Management of Companies & Support Services; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-09-01 00:00:00",
+    "date": "2023-10-01 00:00:00",
     "summary": "The 12 services industries reporting growth in October — listed in order — are: Arts, Entertainment & Recreation; Retail Trade; Other Services; Construction; Finance & Insurance; Public Administration; Transportation & Warehousing; Utilities; Educational Services; Health Care & Social Assistance; Management of Companies & Support Services; and Information. The five industries reporting a decrease in the month of October are: Real Estate, Rental & Leasing; Agriculture, Forestry, Fishing & Hunting; Mining; Wholesale Trade; and Professional, Scientific & Technical Services.",
     "respondents": [
       "\"In general, commodity prices are coming down, but some categories, especially labor, are still elevated and will remain so for the immediate future. Suppliers are citing increased labor costs — wages, salaries and benefits — as the biggest reason for their price increases.\" [Accommodation & Food Services]",
@@ -708,7 +682,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in October — listed in order — are: Arts, Entertainment & Recreation; Other Services; Utilities; Mining; Wholesale Trade; Construction; Information; and Health Care & Social Assistance. The two industries reporting a feeling that their inventories were too low in October are: Transportation & Warehousing; and Management of Companies & Support Services. Seven industries reported no change in inventory sentiment in October."
   },
   {
-    "date": "2023-08-01 00:00:00",
+    "date": "2023-09-01 00:00:00",
     "summary": "The 13 services industries reporting growth in September — listed in order — are: Real Estate, Rental & Leasing; Retail Trade; Mining; Other Services; Utilities; Health Care & Social Assistance; Finance & Insurance; Construction; Professional, Scientific & Technical Services; Public Administration; Information; Transportation & Warehousing; and Educational Services. The five industries reporting a decrease in the month of September are: Agriculture, Forestry, Fishing & Hunting; Arts, Entertainment & Recreation; Accommodation & Food Services; Management of Companies & Support Services; and Wholesale Trade.",
     "respondents": [
       "\"Prices are coming down across the board for most commodities. However, there are still a few areas where supply is not available on a consistent basis, or what is being delivered is not to specifications.\" [Accommodation & Food Services]",
@@ -735,7 +709,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in September — listed in order — are: Arts, Entertainment & Recreation; Mining; Other Services; Utilities; Wholesale Trade; Construction; Retail Trade; Agriculture, Forestry, Fishing & Hunting; and Health Care & Social Assistance. The only industry reporting a feeling that their inventories were too low in September is Accommodation & Food Services. Eight industries reported no change in inventory sentiment in September."
   },
   {
-    "date": "2023-07-01 00:00:00",
+    "date": "2023-08-01 00:00:00",
     "summary": "The 13 services industries reporting growth in August — listed in order — are: Real Estate, Rental & Leasing; Accommodation & Food Services; Other Services; Arts, Entertainment & Recreation; Utilities; Retail Trade; Public Administration; Information; Educational Services; Construction; Finance & Insurance; Transportation & Warehousing; and Professional, Scientific & Technical Services. The five industries reporting a decrease in the month of August are: Agriculture, Forestry, Fishing & Hunting; Mining; Wholesale Trade; Health Care & Social Assistance; and Management of Companies & Support Services.",
     "respondents": [
       "\"Restaurant sales and traffic trends remain positive year over year and compared to pre-pandemic (levels). Hiring is stable, with quality employees available. New California regulations in July included (municipal) minimum wage hikes and implementation of Proposition 12 (a farm animal health and welfare legislation), resulting in much higher pork prices.\" [Accommodation & Food Services]",
@@ -761,7 +735,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in August — listed in order — are: Real Estate, Rental & Leasing; Wholesale Trade; Arts, Entertainment & Recreation; Utilities; Construction; Mining; Health Care & Social Assistance; Retail Trade; Information; and Management of Companies & Support Services. The two industries reporting a feeling that their inventories were too low in August are: Public Administration; and Professional, Scientific & Technical Services. Six industries reported no change in Inventory Sentiment in August."
   },
   {
-    "date": "2023-06-01 00:00:00",
+    "date": "2023-07-01 00:00:00",
     "summary": "The 14 services industries reporting growth in July — listed in order — are: Other Services; Construction; Accommodation & Food Services; Public Administration; Management of Companies & Support Services; Transportation & Warehousing; Utilities; Real Estate, Rental & Leasing; Professional, Scientific & Technical Services; Health Care & Social Assistance; Educational Services; Retail Trade; Information; and Wholesale Trade. The four industries reporting a decrease in the month of July are: Mining; Agriculture, Forestry, Fishing & Hunting; Arts, Entertainment & Recreation; and Finance & Insurance.",
     "respondents": [
       "\"Pricing in food sectors has come down incrementally, but in very small, almost minute percentages. IT labor pricing is still inflated.\" [Accommodation & Food Services]",
@@ -788,7 +762,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in July — listed in order — are: Arts, Entertainment & Recreation; Wholesale Trade; Mining; Information; Other Services; Construction; Retail Trade; Health Care & Social Assistance; Transportation & Warehousing; and Utilities. The two industries reporting a feeling that their inventories were too low in July are: Management of Companies & Support Services; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-05-01 00:00:00",
+    "date": "2023-06-01 00:00:00",
     "summary": "The 15 services industries reporting growth in June — listed in order — are: Accommodation & Food Services; Arts, Entertainment & Recreation; Real Estate, Rental & Leasing; Public Administration; Educational Services; Management of Companies & Support Services; Transportation & Warehousing; Wholesale Trade; Other Services; Utilities; Professional, Scientific & Technical Services; Construction; Finance & Insurance; Retail Trade; and Health Care & Social Assistance. The three industries reporting a decrease in the month of June are: Agriculture, Forestry, Fishing & Hunting; Mining; and Information.",
     "respondents": [
       "\"Stabilizing inflation rates are helping our overall situation. (High inflation as) done much to disrupt our pricing for services and rent over the past two years.\" [Agriculture, Forestry, Fishing & Hunting]",
@@ -816,7 +790,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in June — listed in order — are: Wholesale Trade; Arts, Entertainment & Recreation; Mining; Utilities; Information; Construction; Health Care & Social Assistance; and Agriculture, Forestry, Fishing & Hunting. The six industries reporting a feeling that their inventories were too low in June — listed in order — are: Real Estate, Rental & Leasing; Retail Trade; Management of Companies & Support Services; Public Administration; Transportation & Warehousing; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-04-01 00:00:00",
+    "date": "2023-05-01 00:00:00",
     "summary": "The 11 services industries reporting growth in May — listed in order — are: Accommodation & Food Services; Management of Companies & Support Services; Professional, Scientific & Technical Services; Utilities; Retail Trade; Arts, Entertainment & Recreation; Construction; Other Services; Transportation & Warehousing; Public Administration; and Educational Services. The seven industries reporting a decrease in the month of May — listed in order — are: Mining; Agriculture, Forestry, Fishing & Hunting; Real Estate, Rental & Leasing; Wholesale Trade; Information; Health Care & Social Assistance; and Finance & Insurance.",
     "respondents": [
       "\"Restaurant sales continue to tack positive year over year, up an average of 8 percent past month. Employment needs have leveled off, and we are in a position to evaluate and upgrade rather than just maintain. Supply chain pressures have eased overall with some categories still hot spots. We are in a position to continue investing in technology upgrades and restaurant remodels.\" [Accommodation & Food Services]",
@@ -844,7 +818,7 @@
     "inventory_sentiment": "The 10 industries reporting sentiment that their inventories were too high in May — listed in order — are: Real Estate, Rental & Leasing; Wholesale Trade; Arts, Entertainment & Recreation; Utilities; Mining; Information; Retail Trade; Health Care & Social Assistance; Construction; and Management of Companies & Support Services. The four industries reporting a feeling that their inventories were too low in May are: Accommodation & Food Services; Transportation & Warehousing; Public Administration; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2023-03-01 00:00:00",
+    "date": "2023-04-01 00:00:00",
     "summary": "The 14 services industries reporting growth in April — listed in order — are: Arts, Entertainment & Recreation; Other Services; Real Estate, Rental & Leasing; Accommodation & Food Services; Utilities; Public Administration; Transportation & Warehousing; Professional, Scientific & Technical Services; Educational Services; Health Care & Social Assistance; Retail Trade; Construction; Finance & Insurance; and Information. The three industries reporting a decrease in the month of April are: Mining; Agriculture, Forestry, Fishing & Hunting; and Wholesale Trade.",
     "respondents": [
       "\"Lead times are improving. Suppliers are struggling with how to position themselves with pricing; those keeping prices higher despite a drop in input costs are at risk of losing their business to those that are willing to adjust prices in line with lower input costs.\" [Accommodation & Food Services]",
@@ -871,7 +845,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in April — listed in order — are: Arts, Entertainment & Recreation; Wholesale Trade; Mining; Information; Other Services; Utilities; Construction; Agriculture, Forestry, Fishing & Hunting; Retail Trade; Health Care & Social Assistance; and Management of Companies & Support Services. The four industries reporting a feeling that their inventories were too low in April are: Real Estate, Rental & Leasing; Transportation & Warehousing; Professional, Scientific & Technical Services; and Public Administration."
   },
   {
-    "date": "2023-02-01 00:00:00",
+    "date": "2023-03-01 00:00:00",
     "summary": "The 13 services industries reporting growth in March — listed in order — are: Other Services; Arts, Entertainment & Recreation; Educational Services; Accommodation & Food Services; Public Administration; Mining; Management of Companies & Support Services; Agriculture, Forestry, Fishing & Hunting; Professional, Scientific & Technical Services; Utilities; Health Care & Social Assistance; Construction; and Information. The five industries reporting a decrease in the month of March are: Finance & Insurance; Wholesale Trade; Real Estate, Rental & Leasing; Transportation & Warehousing; and Retail Trade.",
     "respondents": [
       "\"Restaurant sales remain favorable compared to pre-pandemic trends. Traffic is recovering and nearly flat. We are optimistic about the coming months and have invested in building remodeling and equipment, as well as a new back office and POS (point of sale) system.\" [Accommodation & Food Services]",
@@ -898,7 +872,7 @@
     "inventory_sentiment": "The 11 industries reporting sentiment that their inventories were too high in March — listed in order — are: Arts, Entertainment & Recreation; Retail Trade; Mining; Wholesale Trade; Accommodation & Food Services; Information; Other Services; Construction; Health Care & Social Assistance; Agriculture, Forestry, Fishing & Hunting; and Utilities. The two industries reporting a feeling that their inventories were too low in March are: Management of Companies & Support Services; and Transportation & Warehousing."
   },
   {
-    "date": "2023-01-01 00:00:00",
+    "date": "2023-02-01 00:00:00",
     "summary": "The 13 services industries reporting growth in February — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Public Administration; Construction; Professional, Scientific & Technical Services; Retail Trade; Utilities; Other Services; Educational Services; Finance & Insurance; Arts, Entertainment & Recreation; Real Estate, Rental & Leasing; Health Care & Social Assistance; and Accommodation & Food Services. The four industries reporting a decrease in the month of February are: Wholesale Trade; Transportation & Warehousing; Information; and Management of Companies & Support Services.",
     "respondents": [
       "\"Sales activity is generally strong, despite economic headwinds.\" [Accommodation & Food Services]",
@@ -926,7 +900,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in February — listed in order — are: Arts, Entertainment & Recreation; Construction; Wholesale Trade; Agriculture, Forestry, Fishing & Hunting; Other Services; Retail Trade; Health Care & Social Assistance; Utilities; and Information. The four industries reporting a feeling that their inventories were too low in February are: Transportation & Warehousing; Management of Companies & Support Services; Educational Services; and Professional, Scientific & Technical Services."
   },
   {
-    "date": "2022-12-01 00:00:00",
+    "date": "2023-01-01 00:00:00",
     "summary": "The 10 services industries reporting growth in January — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Utilities; Other Services; Management of Companies & Support Services; Public Administration; Educational Services; Accommodation & Food Services; Real Estate, Rental & Leasing; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The eight industries reporting a decrease in the month of January — listed in order — are: Transportation & Warehousing; Retail Trade; Arts, Entertainment & Recreation; Mining; Construction; Information; Finance & Insurance; and Wholesale Trade.",
     "respondents": [
       "\"Raw material availability and lead times have improved but still pose a challenge. In our outlook, we are positive about growth. Consumer confidence is returning, and people are more willing to spend money on luxury items.\" [Accommodation & Food Services]",
@@ -953,7 +927,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in January — listed in order — are: Arts, Entertainment & Recreation; Mining; Wholesale Trade; Construction; Information; Retail Trade; Health Care & Social Assistance; Utilities; and Professional, Scientific & Technical Services. The five industries reporting a feeling that their inventories were too low in January are: Management of Companies & Support Services; Agriculture, Forestry, Fishing & Hunting; Transportation & Warehousing; Accommodation & Food Services; and Public Administration."
   },
   {
-    "date": "2022-11-01 00:00:00",
+    "date": "2022-12-01 00:00:00",
     "summary": "The 11 services industries reporting growth in December — listed in order — are: Retail Trade; Health Care & Social Assistance; Utilities; Public Administration; Arts, Entertainment & Recreation; Mining; Accommodation & Food Services; Transportation & Warehousing; Management of Companies & Support Services; Professional, Scientific & Technical Services; and Finance & Insurance. The six industries reporting a decrease in the month of December — listed in order — are: Real Estate, Rental & Leasing; Wholesale Trade; Other Services; Information; Construction; and Educational Services.",
     "respondents": [
       "\"Business is slower than usual. Seems to be a three- or four-month trend. We expect it to pick up after the first of the year.\" [Agriculture, Forestry, Fishing & Hunting]",
@@ -980,7 +954,7 @@
     "inventory_sentiment": "The nine industries reporting sentiment that their inventories were too high in December — listed in order — are: Wholesale Trade; Arts, Entertainment & Recreation; Construction; Utilities; Accommodation & Food Services; Agriculture, Forestry, Fishing & Hunting; Mining; Information; and Health Care & Social Assistance. The three industries reporting a feeling that their inventories were too low in December are: Real Estate, Rental & Leasing; Management of Companies & Support Services; and Educational Services. Six industries reported no change in inventory sentiment."
   },
   {
-    "date": "2022-10-01 00:00:00",
+    "date": "2022-11-01 00:00:00",
     "summary": "The 13 services industries reporting growth in November — listed in order — are: Real Estate, Rental & Leasing; Mining; Agriculture, Forestry, Fishing & Hunting; Other Services; Construction; Health Care & Social Assistance; Public Administration; Retail Trade; Professional, Scientific & Technical Services; Accommodation & Food Services; Utilities; Transportation & Warehousing; and Educational Services. The three industries reporting a decrease in the month of November are: Management of Companies & Support Services; Wholesale Trade; and Information.",
     "respondents": [
       "\"Business is doing well, almost back to pre-coronavirus pandemic volumes.\" [Agriculture, Forestry, Fishing & Hunting]",
@@ -1007,7 +981,7 @@
     "inventory_sentiment": "The eight industries reporting sentiment that their inventories were too high in November — listed in order — are: Accommodation & Food Services; Arts, Entertainment & Recreation; Wholesale Trade; Retail Trade; Agriculture, Forestry, Fishing & Hunting; Construction; Health Care & Social Assistance; and Utilities. The five industries reporting a feeling that their inventories were too low in November are: Real Estate, Rental & Leasing; Other Services; Management of Companies & Support Services; Professional, Scientific & Technical Services; and Educational Services."
   },
   {
-    "date": "2022-09-01 00:00:00",
+    "date": "2022-10-01 00:00:00",
     "summary": "",
     "respondents": [],
     "business_activity": "",
@@ -1022,7 +996,7 @@
     "inventory_sentiment": ""
   },
   {
-    "date": "2022-08-01 00:00:00",
+    "date": "2022-09-01 00:00:00",
     "summary": "The 15 services industries reporting growth in September — listed in order — are: Mining; Other Services; Educational Services; Agriculture, Forestry, Fishing & Hunting; Public Administration; Retail Trade; Wholesale Trade; Information; Utilities; Professional, Scientific & Technical Services; Health Care & Social Assistance; Finance & Insurance; Real Estate, Rental & Leasing; Construction; and Management of Companies & Support Services. The three industries reporting a decrease in the month of September are: Accommodation & Food Services; Arts, Entertainment & Recreation; and Transportation & Warehousing.",
     "respondents": [
       "\"Sales at our restaurants seasonally trend down from August to October, and this year seems to be more severe compared to before the pandemic. General inflation concerns and consumer uncertainty are the likely causes, expressed by industry peers as well.\" [Accommodation & Food Services]",
@@ -1046,31 +1020,5 @@
     "new_export_orders": "The six industries reporting an increase in new export orders in September — listed in order — are: Management of Companies & Support Services; Real Estate, Rental & Leasing; Retail Trade; Information; Mining; and Educational Services. The three industries reporting a decrease in new export orders in September are: Other Services; Transportation & Warehousing; and Wholesale Trade. Nine industries indicated no change in new export orders in September.",
     "imports": "The six industries reporting an increase in imports for the month of September — listed in order — are: Mining; Accommodation & Food Services; Educational Services; Information; Construction; and Wholesale Trade. The three industries that reported a decrease in imports in September are: Other Services; Professional, Scientific & Technical Services; and Health Care & Social Assistance. Nine industries reported no change in imports in September.",
     "inventory_sentiment": "The five industries reporting sentiment that their inventories were too high in September are: Arts, Entertainment & Recreation; Retail Trade; Construction; Wholesale Trade; and Health Care & Social Assistance. The seven industries reporting a feeling that their inventories were too low in September — listed in order — are: Real Estate, Rental & Leasing; Management of Companies & Support Services; Transportation & Warehousing; Information; Public Administration; Professional, Scientific & Technical Services; and Utilities. Six industries reported no change in September."
-  },
-  {
-    "date": "2022-07-01 00:00:00",
-    "summary": "The 14 services industries reporting growth in August — listed in order — are: Mining; Real Estate, Rental & Leasing; Utilities; Construction; Educational Services; Information; Transportation & Warehousing; Wholesale Trade; Health Care & Social Assistance; Public Administration; Finance & Insurance; Management of Companies & Support Services; Professional, Scientific & Technical Services; and Other Services. The two industries reporting a decrease in the month of August are: Agriculture, Forestry, Fishing & Hunting; and Arts, Entertainment & Recreation.",
-    "respondents": [
-      "\"Starting to see some cost pressures relief; the overall supply environment is healthy.\" [Accommodation & Food Services]",
-      "\"Some pullback on projects by clients, but activity is still strong for our company. This has alleviated some labor availability issues. Generally, there has been improvement in lead times and prices, but still longer and higher, respectively, than in 2021.\" [Construction]",
-      "\"Supply chain issues continue to significantly extend lead times, with a shortage of materials to build scientific equipment and machinery contributing to the issue. Purchases need to be made three to six months in advance, in addition to the normal lead time. As for the higher education industry, it is breaking records for student applicants.\" [Educational Services]",
-      "\"The supply chain and labor continue to be significant issues. Repair parts are nonexistent. Lead times for durable goods are extended, and the less-expensive, mass-produced products are breaking at increased rates — no QC (quality control). The FDA (U.S. Food and Drug Administration) must be reeling because we have been reporting sometimes daily. I'm concerned that a certain percentage of faulty products are probably discarded, which adds to the cost of doing business. Surgery and other hospital products cannot be culled, so it's a complete loss — if they are red-bagged, that is another cost.\" [Health Care & Social Assistance]",
-      "\"The supply chain challenges affect a portion of our buys as they include products and components made outside of the U.S. that are subject to shipping delays and other issues.\" [Management of Companies & Support Services]",
-      "\"COVID-19 still affecting many businesses. Also, there is a labor shortage.\" [Professional, Scientific & Technical Services]",
-      "\"Lingering concerns about inflation and price increases. Still having difficulties hiring staff to fill many positions.\" [Public Administration]",
-      "\"No major changes. Concerns about the macroeconomic climate and consumer confidence.\" [Retail Trade]",
-      "\"Very long lead times from major equipment — Original Equipment Manufacturers (OEMs). Commodity price escalation appears to be leveling.\" [Utilities]",
-      "\"Business is pretty steady month to month, but we expect seasonal supply increase by September that will moderate prices.\" [Wholesale Trade]"
-    ],
-    "business_activity": "The 11 industries reporting an increase in business activity for the month of August — listed in order — are: Real Estate, Rental & Leasing; Utilities; Information; Educational Services; Construction; Wholesale Trade; Transportation & Warehousing; Public Administration; Professional, Scientific & Technical Services; Health Care & Social Assistance; and Finance & Insurance. The three industries reporting a decrease in business activity for the month of August are: Agriculture, Forestry, Fishing & Hunting; Accommodation & Food Services; and Arts, Entertainment & Recreation.",
-    "new_orders": "Twelve industries reported growth of new orders in August, in the following order: Educational Services; Mining; Information; Utilities; Real Estate, Rental & Leasing; Public Administration; Wholesale Trade; Retail Trade; Health Care & Social Assistance; Management of Companies & Support Services; Finance & Insurance; and Professional, Scientific & Technical Services. The only industry reporting a decrease in new orders in August is Agriculture, Forestry, Fishing & Hunting.",
-    "employment": "The eight industries reporting an increase in employment in August — listed in order — are: Mining; Construction; Transportation & Warehousing; Accommodation & Food Services; Arts, Entertainment & Recreation; Other Services; Information; and Wholesale Trade. The seven industries reporting a decrease in employment in August — listed in order — are: Real Estate, Rental & Leasing; Agriculture, Forestry, Fishing & Hunting; Finance & Insurance; Public Administration; Health Care & Social Assistance; Educational Services; and Utilities.",
-    "supplier_deliveries": "The 12 industries reporting slower deliveries in August — listed in order — are: Agriculture, Forestry, Fishing & Hunting; Mining; Finance & Insurance; Real Estate, Rental & Leasing; Accommodation & Food Services; Construction; Utilities; Transportation & Warehousing; Educational Services; Management of Companies & Support Services; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The three industries reporting faster supplier deliveries for the month of August are: Retail Trade; Arts, Entertainment & Recreation; and Information.",
-    "inventories": "The eight industries reporting an increase in inventories in August — listed in order — are: Mining; Accommodation & Food Services; Utilities; Other Services; Transportation & Warehousing; Educational Services; Wholesale Trade; and Public Administration. The seven industries reporting a decrease in inventories in August — listed in order — are: Arts, Entertainment & Recreation; Retail Trade; Real Estate, Rental & Leasing; Agriculture, Forestry, Fishing & Hunting; Information; Management of Companies & Support Services; and Construction.",
-    "prices": "Prices paid by services organizations for materials and services increased in August for the 63rd consecutive month, with the index registering 71.5 percent, 0.8 percentage point lower than the 72.3 percent recorded in July. In the aftermath of July's month-over-month plunge of 7.8 percentage points, the Prices Index continues to indicate an approach toward equilibrium, with a second consecutive reading near 70 percent, following nine straight months of readings above 80 percent.",
-    "backlog_of_orders": "The six industries reporting an increase in order backlogs in August — listed in order — are: Information; Mining; Real Estate, Rental & Leasing; Educational Services; Transportation & Warehousing; and Public Administration. The five industries reporting a decrease in order backlogs in August are: Agriculture, Forestry, Fishing & Hunting; Management of Companies & Support Services; Retail Trade; Professional, Scientific & Technical Services; and Health Care & Social Assistance. Seven industries reported no change in order backlogs for the month of August.",
-    "new_export_orders": "The six industries reporting an increase in new export orders in August — listed in order — are: Construction; Real Estate, Rental & Leasing; Utilities; Public Administration; Information; and Professional, Scientific & Technical Services. The three industries reporting a decrease in new export orders in August are: Educational Services; Transportation & Warehousing; and Wholesale Trade. Nine industries indicated no change in new export orders in August.",
-    "imports": "The six industries reporting an increase in imports for the month of August — listed in order — are: Public Administration; Information; Utilities; Professional, Scientific & Technical Services; Health Care & Social Assistance; and Wholesale Trade. The five industries that reported a decrease in imports in August are: Retail Trade; Agriculture, Forestry, Fishing & Hunting; Educational Services; Management of Companies & Support Services; and Construction. Seven industries reported no change in imports in August.",
-    "inventory_sentiment": "The seven industries reporting sentiment that their inventories were too high in August — listed in order — are: Arts, Entertainment & Recreation; Retail Trade; Mining; Wholesale Trade; Management of Companies & Support Services; Health Care & Social Assistance; and Professional, Scientific & Technical Services. The seven industries reporting a feeling that their inventories were too low in August — listed in order — are: Real Estate, Rental & Leasing; Other Services; Accommodation & Food Services; Transportation & Warehousing; Educational Services; Information; and Utilities."
   }
 ]
